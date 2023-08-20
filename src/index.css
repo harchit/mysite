@@ -11,3 +11,100 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content{
+ 
+  text-align: left;
+}
+
+.sections > a{
+  text-decoration: none;
+  color:white;
+  margin-top:20px;
+}
+.sections > a:hover{
+  color:yellowgreen;
+}
+
+nav a.active{
+  color:yellowgreen;
+}
+
+.container{
+  display: flex;
+  margin-top: 20vh;
+  
+}
+
+.routes{
+  width:43vh;
+  text-align: left;
+}
+.photo{
+  width: 60%;
+  height:60%;
+  margin-bottom:2.5vh;
+}
+.footer{
+  margin-top:15px;
+}
+
+.projects{
+  margin-top:20px;
+  color:white;
+  
+}
+.projects > a{
+  display:flex;
+  color:white;
+}
+.projects > p{
+  margin:0px;
+}
+.projects > a:hover{
+  color:rgb(132, 176, 43);
+}
+.github{
+  fill:white;
+  margin-right:8px;
+}
+.twitter{
+  fill:white;
+}
+.linkedin{
+  fill:white;
+  margin-right:8px;
+}
+
+.github:hover{
+  fill:yellowgreen;
+  cursor:pointer;
+  
+}
+.linkedin:hover{
+  fill:yellowgreen;
+  cursor:pointer;
+}
+.twitter:hover{
+  fill:yellowgreen;
+  cursor:pointer;
+}
+.links{
+  display: flex;
+  height:2.5vh;
+}
+.footer > hr{
+  height: 0.5px;
+  border-width: 3;
+  color:white;
+}
+.resume{
+  margin-top:0px;
+}
+:root{
+  background-color: rgb(23, 21, 21);
+}
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
