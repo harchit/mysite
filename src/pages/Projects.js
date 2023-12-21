@@ -15,6 +15,9 @@ export default function Projects() {
         <p>sends a text message when the PS5 is in stock on Amazon.
         <br/>uses python's beautiful soup to scrape data</p>
         <br/>
+        <a href="https://reverb-96eb6668d40c.herokuapp.com/" target="_blank"><b>Reverb</b></a>
+        <p>social media site for musicians (MERN stack)
+        <br/>user sign up with friends and content feed</p>
         <a href="/"><b>personal website</b></a>
         <p>the site you're currently viewing (React)<br/> 
         </p>
