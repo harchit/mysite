@@ -16,7 +16,7 @@ export default function Projects() {
         <br/>uses python's beautiful soup to scrape data</p>
         <br/>
         <a href="https://reverb-96eb6668d40c.herokuapp.com/" target="_blank"><b>Reverb</b></a>
-        <p>social media site for musicians (MERN stack)
+        <p>social media site for musicians (MERN stack, MaterialUI)
         <br/>user sign up with friends and content feed</p>
         <a href="/"><b>personal website</b></a>
         <p>the site you're currently viewing (React)<br/> 
