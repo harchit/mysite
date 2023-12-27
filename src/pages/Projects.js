@@ -15,7 +15,7 @@ export default function Projects() {
         <p>mock job site with Laravel job postings (PHP, MySql)</p>
         <br/>
         <a href="https://github.com/harchit/PS5_tracker" target="_blank"><b>PS5 tracker</b></a>
-        <p>sends a text message when the PS5 is in stock on Amazon.
+        <p>send a text message when the PS5 is in stock on Amazon.
         <br/>uses python's beautiful soup to scrape data</p>
         <a href="/"><b>personal website</b></a>
         <p>the site you're currently viewing (React)<br/> 
