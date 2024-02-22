@@ -1,3 +1,3 @@
 personal site 
 
-![Alt text](Screenshot 2024-02-21 at 7.00.57 PM.png)
+![Alt text](https://github.com/harchit/mysite/blob/main/Screenshot%202024-02-21%20at%207.00.57%20PM.png)
